@@ -1,0 +1,6 @@
+.sideBar {
+  color: #FFF;
+  overflow-y: hidden;
+  max-height: 100vh;
+  position: relative;
+}

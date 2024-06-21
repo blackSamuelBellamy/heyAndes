@@ -1,0 +1,10 @@
+.menuSeccions {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 30%;
+  gap: 20px;
+  font-size: 1.1em;
+  overflow-y: hidden;
+}
